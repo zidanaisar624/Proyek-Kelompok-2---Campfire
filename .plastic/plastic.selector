@@ -1,0 +1,4 @@
+repository "Proyek Kelompok 2 - Campfire 2024-12-09_22-40-24/Proyek Kelompok 2 - Campfire@18968132374820@cloud"
+  path "/"
+    br "/main"
+    co "/main"
